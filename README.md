@@ -1,4 +1,5 @@
-#Stockify
+# Stockify
+
 Stockify is a project designed to predict stock prices and analyze the impact of news on 
 those prices. The project utilizes the yfinance library to download historical stock data and 
 employs an LSTM (Long Short-Term Memory) model to forecast future stock prices. In 
